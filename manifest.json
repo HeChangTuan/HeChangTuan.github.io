@@ -1,10 +1,13 @@
 {
-  "vendors.js": "/static/js/vendors.b7a9ade3.js",
-  "app.js": "/static/js/app.324dda54.js",
-  "src-docs-home.js": "/static/js/src-docs-home.bfe87431.js",
-  "src-docs-icons.js": "/static/js/src-docs-icons.6732d69f.js",
-  "src-docs-loader.js": "/static/js/src-docs-loader.47e81487.js",
-  "src-docs-nothing.js": "/static/js/src-docs-nothing.6099850f.js",
-  "runtime~app.js": "/static/js/runtime~app.9debc713f4b3d2b81ef9.js",
-  "index.html": "/index.html"
+  "vendors.js": "/docz/static/js/vendors.2d16f9ea.js",
+  "app.js": "/docz/static/js/app.aecef056.js",
+  "src-docs-face.js": "/docz/static/js/src-docs-face.42113197.js",
+  "src-docs-family-mark.js": "/docz/static/js/src-docs-family-mark.cb78803d.js",
+  "src-docs-home.js": "/docz/static/js/src-docs-home.1c42caec.js",
+  "src-docs-icons.js": "/docz/static/js/src-docs-icons.2faca0db.js",
+  "src-docs-loader.js": "/docz/static/js/src-docs-loader.3daa130c.js",
+  "src-docs-nothing.js": "/docz/static/js/src-docs-nothing.57739575.js",
+  "src-docs-prompt.js": "/docz/static/js/src-docs-prompt.453d7187.js",
+  "runtime~app.js": "/docz/static/js/runtime~app.aca5d0a2de3593c79168.js",
+  "index.html": "/docz/index.html"
 }
